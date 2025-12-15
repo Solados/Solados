@@ -1,4 +1,4 @@
-# Hi there 👋, I'm mansspr
+# Hi there 👋, I'm manssor
 
 ### 💻 Developer | Student
 
