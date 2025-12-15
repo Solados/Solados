@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm mansspr
 
-<!--
-**Solados/Solados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Developer | Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm interested in developing web apps and games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies & Tools
+- **Languages:** JavaScript, Python and Java
+- **Frontend:** HTML and CSS
+- **Backend:** PHP
+- **Databases:** Oracle sql
+- **Tools:** Git and VS Code
+- 
+## 📫 How to Reach Me
+- LinkedIn: [https://www.linkedin.com/in/manssor-almuqati-5414aa387/]
+- Email: [manssorralmuqati@gmail.com]
