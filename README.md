@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm interested in developing web apps and games</p>
+<p align="left">Passionate developer building web applications and game prototypes. Currently exploring React/docker for the web and pygame/godot for games development.</p>
 
 ###
 
